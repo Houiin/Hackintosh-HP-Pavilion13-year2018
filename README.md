@@ -9,10 +9,11 @@ Sometimes this problem may not be encountered.
 
 Intel Wi-Fi and Bluethooth not work properly on macOS 12 Monterey
 
-** Recommend use macOS 11 Big Sur at this time **
+<b>Recommend use macOS 11 Big Sur at this time </b>
 
 
 Model: HP Pavilion 13an-000tu
+<p></p>
 
 Details:
 ```
@@ -22,6 +23,7 @@ Memory: 8G (SODIMM)
 SSD: 512G
 Display: 13 inch IPS with 1920x1080@60 (No touch screen)
 Speaker: Realtek ALC295
+
 ```
 
 
@@ -30,7 +32,7 @@ Speaker: Realtek ALC295
 | --------------- | ---------------------------------------------------------- |
 | GPU             | ✅                                                          |
 | Brightness      | ✅  Change some settings by yourself                        |
-| TracePad        | ✅                                                          |
+| TrackPad        | ✅                                                          |
 | Speaker         | ✅                                                          |
 | WiFi            | ✅  Not Work on MacOS 12                                     |
 | Bluetooth       | ✅  Not Work on MacOS 12                                    |
